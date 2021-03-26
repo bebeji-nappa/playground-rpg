@@ -7,5 +7,6 @@ Ruby のオブジェクト指向で簡単な RPG を作る
 ## 起動方法
 
 ```sh
+$ cd rpg
 $ ruby rpg.rb
 ```
